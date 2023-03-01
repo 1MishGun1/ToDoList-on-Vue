@@ -17,7 +17,7 @@ Typical tasks: generating batch reports, sending emails (reports), receiving doc
 2. Clone the repository <br>
 3. Create your own branch for work <br>
 4. Make changes to the project <br>
-5. Make a Pull Request <br>
+5. Make a Pull Request: <br>
   <li>  Choose your branch </li>
   <li>  Write the name of your commit </li>
   <li>  Leave your comments </li>
