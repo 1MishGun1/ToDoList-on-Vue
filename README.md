@@ -8,3 +8,6 @@ Typical tasks: generating batch reports, sending emails (reports), receiving doc
 </p>
 
 <h2>Uploading a project</h2>
+1. Click on the button
+2. Highlight the link to the repository
+3. Clone this repository to your local PC
