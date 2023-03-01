@@ -8,6 +8,15 @@ Typical tasks: generating batch reports, sending emails (reports), receiving doc
 </p>
 
 <h2>Uploading a project</h2>
-1. Click on the button
-2. Highlight the link to the repository
-3. Clone this repository to your local PC
+1. Click on the button <br>
+2. Highlight the link to the repository <br>
+3. Clone this repository to your local PC <br>
+
+<h2>Addition/modification of the project</h2>
+1. Make a copy of the repository to your account
+2. Clone the repository
+3. Create your own branch for work
+4. Make changes to the project
+5. Make a Pull Request
+6. Discussing changes with a reviewer
+7. After the amendments are approved, the Pull Request is accepted
