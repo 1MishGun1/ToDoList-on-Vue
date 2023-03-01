@@ -18,7 +18,7 @@ Typical tasks: generating batch reports, sending emails (reports), receiving doc
 3. Create your own branch for work <br>
 4. Make changes to the project <br>
 5. Make a Pull Request <br>
-  <li> 5.1 Choose your branch </li>
+  <li>  Choose your branch </li>
   <li>  Write the name of your commit </li>
   <li>  Leave your comments </li>
   <li>  Choose from which branch you want to make a merg </li>
