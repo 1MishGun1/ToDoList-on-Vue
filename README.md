@@ -13,10 +13,10 @@ Typical tasks: generating batch reports, sending emails (reports), receiving doc
 3. Clone this repository to your local PC <br>
 
 <h2>Addition/modification of the project</h2>
-1. Make a copy of the repository to your account
-2. Clone the repository
-3. Create your own branch for work
-4. Make changes to the project
-5. Make a Pull Request
-6. Discussing changes with a reviewer
-7. After the amendments are approved, the Pull Request is accepted
+1. Make a copy of the repository to your account <br>
+2. Clone the repository <br>
+3. Create your own branch for work <br>
+4. Make changes to the project <br>
+5. Make a Pull Request <br>
+6. Discussing changes with a reviewer <br>
+7. After the amendments are approved, the Pull Request is accepted <br>
