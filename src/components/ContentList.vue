@@ -58,8 +58,5 @@ h3 {
 .btn-deleteNote {
   width: 100px;
   height: 50px;
-  justify-content: center;
-  align-items: center;
-  display: flex;
 }
 </style>
