@@ -44,8 +44,11 @@ h3 {
   margin: 0 auto;
 }
 
-.item {
+.main-items {
   display: flex;
+}
+
+.item {
   width: 350px;
   height: 100px;
   border: 1px solid rgb(139, 139, 139);
